@@ -2,10 +2,8 @@ import express from 'express';
 import { Server } from 'socket.io';
 import http from 'http';
 import axios from 'axios';
-import dotenv from 'dotenv';
 
 // Load environment variables
-dotenv.config();
 
 const PORT = 8000;
 const app = express();
