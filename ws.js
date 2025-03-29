@@ -1,7 +1,7 @@
 // import express from 'express';
 // import { Server } from 'socket.io';
 // import http from 'http';
-
+const OPENROUTER_API_KEY = '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';
 // const PORT = 8000;
 // const app = express();
 // const server = http.createServer(app);
